@@ -7,7 +7,7 @@ The goal of this project is to propose and construct a machine learning pipeline
 The project is still in early development, mostly focusing on exploratory analysis and experimentation. To join the methodology discussion, look over at this [board](https://github.com/xpetitt123/Ceitec/discussions/1).
 
 ### Roadmap and Milestones
-To look at the current state of the project and its different tasks, look over at the [projects section](https://github.com/xpetitt123/Ceitec/projects?query=is%3Aopen).
+To follow the current state of the project and its different tasks, look over at the [projects section](https://github.com/xpetitt123/Ceitec/projects?query=is%3Aopen).
 
 ## Contributors
 * Tomáš Petit - petitthomas34@gmail.com
