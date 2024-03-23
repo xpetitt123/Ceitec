@@ -20,7 +20,7 @@ If you are new to this project, get familiar with the vision, set your own role 
 
 ## Technical note
 
-**Note:** Do not modify folder name unless you are sure of what you are doing. The project makes use of Nix and the Nix package manager for the sake of reproducibility. The `default.nix` file can be cloned to build the research environment that is used here.
+**Note:** Do not modify folder name unless you are sure of what you are doing. The project makes use of Nix and the Nix package manager for the sake of reproducibility. The `default.nix` file that is located in `01_project_management` can be cloned to build the research environment that is used here.
 
 
 
